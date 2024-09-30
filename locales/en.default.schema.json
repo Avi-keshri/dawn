@@ -983,7 +983,8 @@
           "settings": {
             "heading": {
               "label": "Heading",
-              "default": "Quick links"
+              "default": "Quick links",
+              "info": "Displays only top-level quick links."
             },
             "menu": {
               "label": "Menu",
@@ -1087,6 +1088,13 @@
       "settings": {
         "logo_help": {
           "content": "Edit your logo in [theme settings](/editor?context=theme&category=logo)."
+        },
+        "logo_image": {
+          "label": "Logo"
+        },
+        "logo_width": {
+          "label": "Desktop logo width",
+          "info": "Logo width is automatically optimized for mobile."
         },
         "logo_position": {
           "label": "Desktop logo position",
