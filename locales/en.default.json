@@ -42,7 +42,13 @@
     "cart": {
       "view": "View cart ({{ count }})",
       "view_empty_cart": "View cart",
-      "item_added": "Item added to your cart"
+      "item_added": "Item added to your cart",
+      "continue_shopping": "Continue shopping",
+      "cart_empty_title_html": "Your cart is Empty ",
+      "subtotal": "Subtotal:",
+      "checkout": "Checkout",
+      "saving": "Total Savings:",
+      "title": "Your cart"
     },
     "share": {
       "close": "Close share",
